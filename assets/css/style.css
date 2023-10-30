@@ -287,6 +287,7 @@ section {
   gap: 2rem;
   margin-bottom: 2rem;
   margin-top: 2rem;
+
 }
 
 .about-details-container {
@@ -656,5 +657,9 @@ footer p {
   }
   .bouton1{
     position: absolute;
+  }
+  .about-containers{
+    display: flex;
+    flex-direction: column;
   }
 }
