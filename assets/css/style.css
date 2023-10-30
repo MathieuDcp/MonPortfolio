@@ -588,6 +588,10 @@ footer p {
   .contact-info-upper-container{
     flex-wrap: wrap;
   }
+  .about-containers{
+    display: flex;
+    flex-direction: column;
+  }
 }
 
 @media screen and (max-width: 600px) {
